@@ -10,6 +10,7 @@
     "angular-ui-router": "~0.2.10",
     "angular-loading-bar": "~0.4.3",
     "angular-mocks": "~1.2.x",
-    "bootstrap": "~3.2.x"
+    "bootstrap": "~3.2.x",
+    "lodash": "~2.4.1"
   }
 }
